@@ -1,29 +1,19 @@
-Last updated: August 1st, 2025
+# Wager Tracker — Privacy Policy & Support  
 
-This Privacy Policy explains how Wager Tracker (“we”, “us”, or “our”) handles the data associated with users of the iOS/iPadOS application (“App”).
+_Last updated: August 1, 2025_  
 
-What We Collect • No Personal Data: We do not collect, sell, or share personal information. • On-Device Storage: All data you enter—bets, parlays, notes, odds, results, settings—is stored locally on your device. • iCloud/Device Backups: If you enable iCloud or device backups, Apple may store encrypted copies of your data under your Apple ID.
+## Privacy Policy  
+We do not collect, sell, or share personal information.  
 
-Analytics & Tracking • We do not use analytics or tracking SDKs (e.g., Firebase, Google Analytics). • No user behavior is captured or transmitted.
+- **On-Device Storage:** All data you enter—bets, parlays, notes, odds, results, settings—is stored locally on your device.  
+- **iCloud/Device Backups:** If you enable iCloud or device backups, Apple may store encrypted copies of your data.  
+- **No Analytics or Ads:** Wager Tracker does not use analytics, tracking, or advertising SDKs.  
 
-Third-Party Services
+## Support  
+For questions or technical support:  
+- Email: support@yourdomain.com  
+- GitHub Issues: [Open a ticket here](https://github.com/ukeuro500-max/Wager-Tracker-support/issues)  
 
-These requests never include personal data.
+---
 
-Children’s Privacy
-
-This app is not intended for children under 13. If you believe a child has used the app, please contact us.
-
-Security & Data Control • Your data remains on your device unless you share it. • Use in-app export/import tools or disable iCloud backups to manage data control.
-
-User Choices & Rights • Export or delete your data anytime via built-in tools. • You can disable backup syncing through your device settings. • Contact us to request data removal or other inquiries.
-
-Contact Us
-
-Email: tulia@mail.com
-
-Policy Updates
-
-We may update this policy occasionally. The “Last updated” date will reflect changes.
-
-Tote LLc
+© 2025 Wager Tracker. All rights reserved.
