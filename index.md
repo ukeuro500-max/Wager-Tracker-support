@@ -11,7 +11,7 @@ We do not collect, sell, or share personal information.
 
 ## Support  
 For questions or technical support:  
-- Email: tulia@mail.com
+
 - GitHub Issues: [Open a ticket here](https://github.com/ukeuro500-max/Wager-Tracker-support/issues)  
 
 ---
